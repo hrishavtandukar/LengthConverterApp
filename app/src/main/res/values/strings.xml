@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Length Converter</string>
+    
+    <string-array name="Convert">
+        <item>Centimeter To Meter</item>
+        <item>Meter To Centimeter</item>
+    </string-array>
+</resources>
